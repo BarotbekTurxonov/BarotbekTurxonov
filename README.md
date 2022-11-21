@@ -6,9 +6,5 @@
 - 
 - Email : turxonovbarot@gmail.com
 - Whatsapp: +998933411713
-- instagram : @barot005
-
-<!---
-BarotbekTurxonov/BarotbekTurxonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Instagram : @barot005
+- Telegram : https://t.me/ai_junior
